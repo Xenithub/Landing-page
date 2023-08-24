@@ -229,3 +229,8 @@ footer {
     border-left: 1px solid rgba(255, 255, 255, 0.5);
 
 }
+@media only screen and (max-width: 905px) {
+    body {
+        width: 952px;
+    }
+  }
